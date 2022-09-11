@@ -181,4 +181,7 @@ section .contentBx .formBx .sci li img
         margin: 30px 0px 10px;
         font-weight: 500;
     }
+        section .contentBx .formBx .inputBx input {
+        width: 90%;
+    }
 }
